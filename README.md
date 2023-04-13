@@ -1,1 +1,1 @@
-# coder-rsa
+This code creates two keys, one private and one public. With the public key, using the toCode() function, you can encode numeric information. Using the private key and the toDecode() function, you can decrypt previously encrypted information. The key generation algorithm works on the principle of RSA encryption, the basis of reliability is that at the moment there are no such resources that could decode an arbitrary number decomposed into factors.
